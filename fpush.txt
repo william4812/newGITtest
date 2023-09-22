@@ -1,3 +1,5 @@
 test
 
 show me the difference
+
+And here is a confict in addConflict branch
