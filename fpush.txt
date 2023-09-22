@@ -2,4 +2,4 @@ test
 
 show me the difference
 
-This is what it should be in master branch
+This is what it should be in master branch merged with conflict
